@@ -1,0 +1,11 @@
+---
+title: "About Me"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+I am a motivated master program student at Columbia University Mailman School of Public Health. I am adept in the knowledge of epidemiology, public health, and ongoing healthcare issues and have skills in medical/biological research, patient interaction, and public services.
+
+[Resume](resume.html)

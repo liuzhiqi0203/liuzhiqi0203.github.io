@@ -1,0 +1,123 @@
+---
+title: "Resume"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+## PROFILE
+Motivated master program student at Columbia University Mailman School of Public Health seeking a summer internship opportunity in the medicine/public health area. Adept in the knowledge of epidemiology, public health, and ongoing healthcare issues and have skills in medical/biological research, patient interaction, and public services. Ready to apply my experiences to this summer internship opportunity.
+
+## EDUCATION
+#### Columbia University
+###### New York, NY 
+###### September 2022-present 
+* Master of Public Health
+* Epidemiology/Applied Biostatistics and Public Health Data Science Certificate
+* GPA: 4.09/4.00
+
+#### Wesleyan University
+###### Middletown, CT 
+###### September 2016–May 2020 
+* Bachelor of Arts
+* Major: Molecular Biology & Biochemistry and Neuroscience & Behavior
+* GPA: 3.82/4.00 
+* Honor/Accomplishment: Dean’s List 2016-2019 fall semester
+
+## WORK and INTERNSHIP EXPERIENCE
+#### Accountant Assistant 
+##### Lorraine Schwartz Jewelry Trading Company, 
+###### New York, NY                            
+###### July 2022-August 2022
+*	Assisted Accountant Nancy to collect client data, organized transaction files, and helped with bank check
+*	Helped with jewelry delivery and shipment process
+
+#### Research Technician
+##### Livingston Lab at Dana-Farber Cancer Institute
+###### Boston, MA
+###### June 2020–Dec 2021
+* Work with a postdoc fellow, Jekaterina Vohhodina, in David M. Livingston, MD lab under the cancer biology
+department on projects related to BRCA1 gene research for an article published in Nature Communications on the
+10th of June 2021 with the title “BRCA1 binds TERRA RNA and suppresses R-Loop-based telomeric DNA damage”
+* Learn and perform lab technique including Tissue Culture, Western blot, Southern Blot, Slot/Dot Blot, Fluorescence
+in situ Hybridization (FISH), Immunoprecipitation (IP), Chromatin Immunoprecipitation (ChIP), and relative skills
+*	Worked with the postdoc fellow for an article published in Nature Communications on the 10th of June 2021 with the title “BRCA1 binds TERRA RNA and suppresses R-Loop-based telomeric DNA damage”
+
+#### Research Intern 
+##### Research Lab of CapitaBio Corporation Affiliated to Tsinghua University
+###### Beijing, China   
+###### June–July 2017
+*	Designed experiments to measure the impact of music on blood pressure and working efficiency  
+*	Practiced the PCR technique and participated in the analysis of the human microbiome and enzyme function in disease
+
+## RESEARCH EXPERIENCE
+#### Columbia APEx Summer Intern
+##### Seres Lab at Columbia University Mailman School of Public Health 
+###### New York, NY                                   
+###### May 2023–August 2023 
+*	Investigated the characteristics of the refeeding syndrome by analyzing the data of malnutritional patients
+*	Utilized machine learning algorism to create a new tool to identify potential patients who might develop the refeeding syndrome
+
+#### Undergraduate Research Assistant
+##### Taylor Lab at Wesleyan University
+###### Middletown, CT 
+###### November 2017–May 2020 
+*	Characterized Heptosyltransferase II via biophysical techniques including circular dichroism, kinetics, and isothermal titration calorimetry  
+*	Performed biosynthetic methods to generate a substrate ADP-heptose for Heptosyltransferases family
+* Carried lipid extraction from Escherichia coli cell membrane to obtain lipid A, O-deacylated, and fully deacylated molecules 
+
+#### Summer Research Assistant
+##### Taylor Lab at Wesleyan University
+###### Middletown, CT 
+###### May 2018–July 2018 and May 2019–July 2019
+*	Utilized DNA subcloning technique to transfer the desired fragment from LpxE DNA into a specialized GFP vector
+*	Isolated, purified, and analyzed DNA and protein using minipreps, gel electrophoresis, and column chromatography techniques
+*	Studied the rate of the chemical reaction catalyzed by Heptosyltransferase II
+
+## MEDICAL RELATED EXPERIENCE
+#### Emergency Department Volunteer
+##### New York-Presbyterian/Columbia University Irving Medical Center
+###### New York City, NY                                  ###### May 2023-present, 4 hrs/week
+*	Assist the ER nurses and Patient Care Technicians to meet patients’ requests and improve their hospital staying experience
+*	Help the ER nurses and Patient Care Technicians to move hospital stretchers, make the bed, and prepare the room
+
+#### EMT Covid-19 Shelter Volunteer
+##### New Haven Shelter 1
+###### New Haven, CT 
+###### March 2020–May 2020, 8 hrs/week
+*	Completed the admission process of patients who tested positive for Covid-19 to the shelter hospital, including completed relative forms, transferred health information from the previous hospital and recorded body temperature, blood oxygen level, blood pressure, and pulse
+*	Provided support and assistance to patients until they were recovered and ready to be discharged
+
+#### Emergency Department Volunteer and Safety Volunteer
+##### Middlesex Hospital
+###### Middletown, CT
+###### October 2017–May 2020, 4 hrs/week                  
+* Assisted the ER nurses and Patient Care Technicians to meet patients’ requests and improve their hospital staying experience 
+* Entered 6 inpatient units to check room safety and make sure the room condition is safe, especially for patients at risk for falling
+
+#### Research Associate
+##### Emergency Department of St. Vincent's Medical Center 
+###### Bridgeport, CT 
+###### October 2017–April 2018, 4 hrs/week
+*	Conducted a study on primary healthcare screening with the National Alliance of Research Associates Programs
+*	Collected information about primary healthcare practitioners, lung cancer screening, Pap test, Mammograms, colonoscopy, and other healthcare screen tests from patients and their visitors in the emergency department
+
+#### Doctor-shadowing Observer
+##### Orthopedics Associates of Hartford 
+###### Hartford Hospital, Hartford, CT                    
+###### January 2018 & January 2019 each for three day
+###### Orthopedics at Montefiore Medical Center 
+##### Montefiore Medical Center, Bronx, NY               
+###### January 2018 for one day
+* Shadowed Dr. Aronow, MD in Connecticut and Dr. Nuland, MD in New York
+*	Observed surgeries on feet, ankles, legs, and hips 
+*	gained the opportunity to engage with patients and learn different ailments and their treatments
+
+## PUBLICATION
+* Co-authorship of the article "BRCA1 binds TERRA RNA and suppresses R-Loop-based telomeric DNA damage" published in the Nature Communications journal on June 10th, 2021.
+
+"BRCA1 binds TERRA RNA and suppresses R-Loop-based telomeric DNA damage"
+[Nature Communications](https://doi.org/10.1038/s41467-021-23716-6)
+
+
