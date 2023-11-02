@@ -13,4 +13,8 @@ Hello I am Amy. Welcome to my website!!
 
 [About Me](about.html)
 
+### Problem 2
+
+[Dashboard](dashboard.html)
+
 
