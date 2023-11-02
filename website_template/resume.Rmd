@@ -7,7 +7,7 @@ output:
 ---
 
 ## PROFILE
-Motivated master program student at Columbia University Mailman School of Public Health seeking a summer internship opportunity in the medicine/public health area. Adept in the knowledge of epidemiology, public health, and ongoing healthcare issues and have skills in medical/biological research, patient interaction, and public services. Ready to apply my experiences to this summer internship opportunity.
+Motivated master program student at Columbia University Mailman School of Public Health seeking a summer internship opportunity in the medicine/public health area. Adept in the knowledge of epidemiology, public health, and ongoing healthcare issues and have skills in medical/biological research, patient interaction, and public services.
 
 ## EDUCATION
 #### Columbia University
@@ -15,7 +15,7 @@ Motivated master program student at Columbia University Mailman School of Public
 ###### September 2022-present 
 * Master of Public Health
 * Epidemiology/Applied Biostatistics and Public Health Data Science Certificate
-* GPA: 4.09/4.00
+* GPA: 3.88/4.00
 
 #### Wesleyan University
 ###### Middletown, CT 
@@ -27,7 +27,7 @@ Motivated master program student at Columbia University Mailman School of Public
 
 ## WORK and INTERNSHIP EXPERIENCE
 #### Accountant Assistant 
-##### Lorraine Schwartz Jewelry Trading Company, 
+##### Lorraine Schwartz Jewelry Trading Company 
 ###### New York, NY                            
 ###### July 2022-August 2022
 *	Assisted Accountant Nancy to collect client data, organized transaction files, and helped with bank check
@@ -118,6 +118,7 @@ in situ Hybridization (FISH), Immunoprecipitation (IP), Chromatin Immunoprecipit
 * Co-authorship of the article "BRCA1 binds TERRA RNA and suppresses R-Loop-based telomeric DNA damage" published in the Nature Communications journal on June 10th, 2021.
 
 "BRCA1 binds TERRA RNA and suppresses R-Loop-based telomeric DNA damage"
+
 [Nature Communications](https://doi.org/10.1038/s41467-021-23716-6)
 
 

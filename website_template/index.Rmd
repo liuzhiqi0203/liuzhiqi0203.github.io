@@ -6,14 +6,11 @@ output:
     toc_float: true
 ---
 
-## Introduction
 Hello I am Amy. Welcome to my website!! 
-I am a motivated master program student at Columbia University Mailman School of Public Health. 
 
-## Academic and professional experience
+
+### Academic and professional experience
 
 [About Me](about.html)
 
-## LinkedIn
 
-[LinkedIn Amy](https://www.linkedin.com/in/zhiqi-liu-1768a1107)

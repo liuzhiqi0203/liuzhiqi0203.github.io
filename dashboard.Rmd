@@ -1,0 +1,101 @@
+---
+title: "Instacart"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+    source: embed
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(tidyverse)
+library(plotly)
+library(p8105.datasets)
+```
+
+```{r}
+instacart_bev = 
+  instacart %>% 
+  janitor::clean_names() %>% 
+  drop_na() %>%
+  select(
+    add_to_cart_order, reordered, order_dow, order_hour_of_day, days_since_prior_order, product_name, aisle, department) %>% 
+  filter(department == "beverages", add_to_cart_order %in% 10:100, reordered >= 1, !is.na(order_dow)) %>% 
+  mutate(order_dow = 
+           recode(order_dow,
+             "0" = "Sun",
+             "1" = "Mon", 
+             "2" = "Tue",
+             "3" = "Wed",
+             "4" = "Thu", 
+             "5" = "Fri",
+             "6" = "Sat"),
+         order_dow = factor(order_dow, levels = c("Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun")))
+```
+
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Number of beverages ordered by aisle name
+
+```{r}
+  instacart_bev %>% 
+  count(aisle) %>% 
+  mutate(product_name = fct_reorder(aisle, n)) %>% 
+  plot_ly(
+    x = ~aisle, y = ~n, color = ~aisle,
+    type = "bar", colors = "viridis")
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Top 3 add to cart beverage order 
+
+```{r echo=FALSE, warning=FALSE}
+instacart_bev_B <- instacart %>%
+  filter(department == "beverages") %>% 
+  group_by(product_name) %>%
+  tally() %>%
+  arrange(desc(n)) %>%
+  slice_head(n = 3) %>%
+  pull(product_name)
+
+top_3 <- instacart %>%
+  filter(product_name %in% instacart_bev_B)
+
+plot_ly(data = top_3, 
+        y = ~add_to_cart_order, 
+        color = ~product_name,
+        type = "box",
+        orientation = "v",
+        colors = "viridis")
+```
+
+### Added to cart product by day of a week
+
+```{r echo=FALSE, warning=FALSE}
+instacart_bev |>
+plot_ly(
+    x = ~order_dow,
+    y = ~add_to_cart_order,
+    text = ~aisle,
+    type = "scatter",
+    mode = "markers",
+    color = ~aisle,
+    colors = "viridis",
+    size = ~ifelse(reordered == 1, 12, 8),  
+    sizes = c(8, 12),
+    marker = list(opacity = 0.7, line = list(width = 0))
+  ) |>
+  layout(
+    title = "Number of add to cart order vs. Day of a week",
+    xaxis = list(title = "Day of a week"),
+    yaxis = list(title = "Number of add to cart order"),
+    colorbar = list(title = "Aisle"),
+    legend = list(title = "Added to cart product")
+  )
+```
+

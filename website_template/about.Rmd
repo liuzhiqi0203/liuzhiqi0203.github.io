@@ -8,4 +8,10 @@ output:
 
 I am a motivated master program student at Columbia University Mailman School of Public Health. I am adept in the knowledge of epidemiology, public health, and ongoing healthcare issues and have skills in medical/biological research, patient interaction, and public services.
 
+## Resume
+
 [Resume](resume.html)
+
+## LinkedIn
+
+[LinkedIn Amy](https://www.linkedin.com/in/zhiqi-liu-1768a1107)
