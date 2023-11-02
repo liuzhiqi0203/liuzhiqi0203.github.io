@@ -10,8 +10,12 @@ I am a motivated master program student at Columbia University Mailman School of
 
 ## Resume
 
-[Resume](resume.html)
+[Resume](Resume.html)
 
 ## LinkedIn
 
 [LinkedIn Amy](https://www.linkedin.com/in/zhiqi-liu-1768a1107)
+
+## Problem 2 Dashboard
+
+[Dashboard](dashboard.html)

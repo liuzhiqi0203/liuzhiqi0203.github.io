@@ -13,10 +13,10 @@ navbar:
       href: mailto:<al4327@cumc.columbia.edu>
     - icon: fa-github fa-lg
       href: http://github.com/liuzhiqi0203/
-      text: "LinkedIn"
+    - text: "LinkedIn"
       href: https://www.linkedin.com/in/zhiqi-liu-1768a1107
-      text: "Nature Communications"
+    - text: "Nature Communications"
       href: https://doi.org/10.1038/s41467-021-23716-6
 output:
-  html_document
+  html_document:
     theme: cerulean
